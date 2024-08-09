@@ -1,0 +1,11 @@
+{
+  "name": "advanced-css-techniques",
+  "version": "1.0.0",
+  "description": "A task to apply advanced CSS techniques like pagination, gradients, and border images to a profile page.",
+  "main": "index.html",
+  "scripts": {
+    "start": "open index.html"
+  },
+  "author": "NFThing",
+  "license": "ISC"
+}
